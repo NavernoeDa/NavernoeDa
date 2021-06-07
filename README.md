@@ -1,14 +1,22 @@
-## ![ladno](https://rf0x3d.su/maybe_assets/music_outline_28.svg) Spotify Now Playing
-
-![cringe](https://spotify-now-playing-m4x3r1337.vercel.app/api/spotify-playing)
+[![Spotify](https://a-delta-one.vercel.app/api/spotify)](https://open.spotify.com/user/frzo48r5rx3wx03vi1j0viy5k)
 
 
-## ![ladno](https://rf0x3d.su/maybe_assets/computer_outline_28.svg) Pages
-  [![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://clownless.xyz)
-  [![Donate](https://rf0x3d.su/maybe_assets/money_transfer_outline_28.svg)](https://t.me/m4x3r228/5)
-  [![VK](https://rf0x3d.su/maybe_assets/logo_vk_outline_28.svg)](https://vk.com/clownless)
-  [![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/clownl3ss)
+## Где меня можно найти?
+### Соц.Сети!
+<p align="left">
+  <a href="https://open.spotify.com/user/frzo48r5rx3wx03vi1j0viy5k"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+  <a href="https://twitter.com/dina_idi_nahui"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+  <a href="https://www.youtube.com/channel/UCOT2dstoaF2vYg1WfvDakwg"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
+  <a href=https://www.t.me/Saha_Glens><img alt='Telegram' title='Я в Телеграм!' height='32' width='32' 
+src="https://www.svgrepo.com/show/303292/telegram-logo.svg"></a>
+  <a href=https://www.t.me/Saha_Glens_Blog><img alt='Telegram' title='Мой блог в Телеграм!' height='32' width='32' 
+src="https://www.svgrepo.com/show/303292/telegram-logo.svg"></a>
+</p>
+  
 
-## ![ladno](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=clownless&show_icons=true)
-![Cringe](https://github-readme-stats.vercel.app/api/wakatime?username=clownless&layout=compact)
+### Игры!
+<p align="left">
+  <a href="#"><img alt="Epic Games - PeterTheHan" title="NavernoeDa" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/epicgames.svg"></a>
+  <a href="https://steamcommunity.com/id/Navernoe_Da"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
+</p>
+
