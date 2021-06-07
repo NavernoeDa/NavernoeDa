@@ -1,4 +1,4 @@
-# ![Spotify](https://a-khaki.vercel.app/api/spotify)
+# ![Spotify](https://a-beryl.vercel.app//api/spotify)
 
 
 ## Где меня можно найти?
