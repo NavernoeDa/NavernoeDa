@@ -43,3 +43,6 @@ src="instander.png"></a>
 
 ## SpotifyNowBot
 #### ![Spotify](https://a-beryl.vercel.app//api/spotify)
+
+## Натрибу!
+<a href="https://natribu.org" class="local-link"><img loading="lazy" src="https://www.putin-itogi.ru/b/290x70.jpg" width="290" height="70" border="0" alt="«Путин. Итоги. 10 лет» - доклад Бориса Немцова и Владимира Милова" /></a>
