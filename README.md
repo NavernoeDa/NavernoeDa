@@ -18,7 +18,13 @@ src="https://www.svgrepo.com/show/303292/telegram-logo.svg"></a>
 src="https://www.svgrepo.com/show/303292/telegram-logo.svg"></a>
 </p>
 
-#### Моды!
+#### Игры!
+<p align="left">
+  <a href="#"><img alt="Epic Games - PeterTheHan" title="NavernoeDa" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/epicgames.svg"></a>
+  <a href="https://steamcommunity.com/id/Navernoe_Da"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
+</p>
+
+## Моды!
 <p align='left'>
     <a href=https://www.t.me/Vtosters><img alt='Telegram' title='Ахуеный мод на ВК' height='72' width='72' 
 src="https://upload.wikimedia.org/wikipedia/commons/b/b2/VTosters_logo.svg"></a>
@@ -26,12 +32,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/b/b2/VTosters_logo.svg"></a>
 src="vkx.png"></a>
   <a href=https://t.me/instander><img alt='Telegram' title='Ахуеный мод на Инстаграм' height='62' width='62' 
 src="instander.png"></a>
-</p>
-
-#### Игры!
-<p align="left">
-  <a href="#"><img alt="Epic Games - PeterTheHan" title="NavernoeDa" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/epicgames.svg"></a>
-  <a href="https://steamcommunity.com/id/Navernoe_Da"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
 </p>
 
 ## Люди, которые очень мной уважаемы!
