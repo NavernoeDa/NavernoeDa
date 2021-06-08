@@ -23,3 +23,12 @@ src="https://www.svgrepo.com/show/303292/telegram-logo.svg"></a>
   <a href="https://steamcommunity.com/id/Navernoe_Da"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
 </p>
 
+## Люди, которые очень мной уважаемы!
+### 
+* Люди, которые уважажаемы очень:
+  * [Gdlbo](https://t.me/gdlbo)
+   * [iTaysonLab](https://t.me/iTaysonLab)
+   * [Катя](https://t.me/damncxred)
+* Люди, которые были уважаемы, но оказались долбаёбами:
+  * Нередофф
+  * [iNeoony](http://t.me/iNeoony)
