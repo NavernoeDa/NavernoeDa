@@ -31,16 +31,6 @@ src="vkx.png"></a>
 src="instander.png"></a>
 </p>
 
-## Люди, которые очень мной уважаемы!
-### 
-* Люди, которые уважажаемы очень:
-  * [Gdlbo](https://t.me/gdlbo)
-   * [iTaysonLab](https://t.me/iTaysonLab)
-   * [Катя](https://t.me/damncxred)
-* Люди, которые были уважаемы, но оказались долбаёбами:
-  * Нередофф
-  * [iNeoony](http://t.me/iNeoony)
-
 ## SpotifyNowBot
 #### ![Spotify](https://a-beryl.vercel.app//api/spotify)
 
