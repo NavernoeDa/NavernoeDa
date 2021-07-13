@@ -39,3 +39,6 @@ src="instander.png"></a>
 
 ## ![image](https://user-images.githubusercontent.com/80100455/125431521-15604aed-e599-47ef-b7fb-3647869403af.png)
 <a href="https://natribu.org" class="local-link"><img loading="lazy" src="https://www.putin-itogi.ru/b/290x70.jpg" width="290" height="70" border="0" alt="«Путин. Итоги. 10 лет» - доклад Бориса Немцова и Владимира Милова" /></a>
+
+## ![image](https://user-images.githubusercontent.com/80100455/125432249-ab588f84-3bbe-4c5a-9e1f-ecd098722dbc.png)
+#### <a href="https://t.me/the8055u">8055</a> за то, что дал очень хороший шрифт для оформления этого редми!
