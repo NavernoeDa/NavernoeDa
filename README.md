@@ -1,8 +1,5 @@
 ###### (Этот редми сделан под чёрную или тёмную тему)
 
-### ![image](https://user-images.githubusercontent.com/80100455/125430834-b4740154-969e-4d56-8b90-f68f1fde6b81.png)
-#### Я Саша и я умею нихуя (кроме чуть в питон и чуть-чуть в сайты). Если вы подумаете, что я позер, то Вы, возможно, окажитесь правы. Я, кстати, уже закончила школу, так что мужья, я свободна!
-
 ## ![image](https://user-images.githubusercontent.com/80100455/125430939-ebe765bd-ab9c-4ec7-bb64-842ce49034cc.png)
 #### ![image](https://user-images.githubusercontent.com/80100455/125431892-27ff7000-551c-4d06-9703-c665361df5f1.png)
 <p align="left">
