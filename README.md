@@ -24,7 +24,7 @@ src="https://www.svgrepo.com/show/303292/telegram-logo.svg"></a>
 
 <p align='left'>
     <a href=https://www.t.me/Vtosters><img alt='Telegram' title='Ахуеный мод на ВК' height='72' width='72' 
-src="https://upload.wikimedia.org/wikipedia/commons/b/b2/VTosters_logo.svg"></a>
+src="vtosters.jpg"></a>
   <a href=https://www.t.me/vkxci><img alt='Telegram' title='Ахуеный мод на ВК, а именно музыка' height='62' width='62' 
 src="vkx.png"></a>
   <a href=https://t.me/instander><img alt='Telegram' title='Ахуеный мод на Инстаграм' height='62' width='62' 
