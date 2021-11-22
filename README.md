@@ -6,13 +6,12 @@
   <a href="https://open.spotify.com/user/frzo48r5rx3wx03vi1j0viy5k"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
   <a href="https://twitter.com/dina_idi_nahui"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
   <a href="https://www.youtube.com/channel/UCOT2dstoaF2vYg1WfvDakwg"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
-  <a href=https://www.t.me/Saha_Glens><img alt='Telegram' title='Я в Телеграм!' height='32' width='32' 
-src="https://www.svgrepo.com/show/303292/telegram-logo.svg"></a>
-  <a href=https://www.t.me/Saha_Glens_Blog><img alt='Telegram' title='Мой блог в Телеграм!' height='32' width='32' 
-src="https://www.svgrepo.com/show/303292/telegram-logo.svg"></a>
-  <a href=https://t.me/dannie_SahaGlens><img alt='Telegram' title='Все ссылки!' height='32' width='32' 
-src="https://www.svgrepo.com/show/303292/telegram-logo.svg"></a>
 </p>
+
+##### Людям, которые меня нашли тут, мои аккаунты:
+###### 1. <a href="https://t.me/kumchatka">@kumchatka</a>
+###### 2. <a href="https://t.me/kwkin">@kwkin</a>
+###### 3. <a href="https://t.me/tomb_a">@tomb_a</a>
 
 #### ![image](https://user-images.githubusercontent.com/80100455/125431914-d78f3037-5115-4c8b-93ca-e684d8022c81.png)
 <p align="left">
