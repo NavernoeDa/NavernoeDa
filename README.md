@@ -8,10 +8,6 @@
   <a href="https://www.youtube.com/channel/UCOT2dstoaF2vYg1WfvDakwg"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
 </p>
 
-##### Людям, которые меня нашли тут, мои аккаунты:
-###### 1. <a href="https://t.me/kumchatka">@kumchatka</a>
-###### 2. <a href="https://t.me/kwkin">@kwkin</a>
-###### 3. <a href="https://t.me/tomb_a">@tomb_a</a>
 
 #### ![image](https://user-images.githubusercontent.com/80100455/125431914-d78f3037-5115-4c8b-93ca-e684d8022c81.png)
 <p align="left">
@@ -30,11 +26,6 @@ src="vkx.png"></a>
 src="instander.png"></a>
 </p>
 
-## ![image](https://user-images.githubusercontent.com/80100455/125431427-8f8d9c0a-3c06-4dc4-b848-0b5c0d3c5bca.png)
-#### ![Spotify](https://a-beryl.vercel.app//api/spotify)
 
 ## ![image](https://user-images.githubusercontent.com/80100455/125431521-15604aed-e599-47ef-b7fb-3647869403af.png)
 <a href="https://natribu.org" class="local-link"><img loading="lazy" src="https://www.putin-itogi.ru/b/290x70.jpg" width="290" height="70" border="0" alt="«Путин. Итоги. 10 лет» - доклад Бориса Немцова и Владимира Милова" /></a>
-
-## ![image](https://user-images.githubusercontent.com/80100455/125432249-ab588f84-3bbe-4c5a-9e1f-ecd098722dbc.png)
-#### <a href="https://t.me/the8055u">8055</a> за то, что дал очень хороший шрифт для оформления этого редми!
